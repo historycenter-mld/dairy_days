@@ -41,7 +41,7 @@ metadata: dairy_days
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 organization-name: "Meridian Library District"
-organization-link: https://www.mld.org/resources/history
+organization-link: https://www.mld.org/history
 organization-logo-banner: /assets/img/mld-logo.png
 organization-logo-nav: /assets/img/mld-logo.png
 
